@@ -9,7 +9,7 @@ Twcmds is a command line utility that receives predefined
 commands from an authroized Twitter account and runs them on a
 host computer. Custom keywords referring to specific shell 
 commands can be set, or the shell can be interfaced with 
-directly. Valid twitter commands may look like::
+directly. Valid twitter commands may look like:
 
     >>shell echo 'hello'
     >>ftp 123.23.123.123 foo.txt
