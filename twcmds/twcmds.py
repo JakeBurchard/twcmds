@@ -6,8 +6,8 @@ from connection import TwitConn
 from daemon import get_status
 from process_args import process_args
 
-CONSUMER_KEY = ""
-CONSUMER_SECRET = ""
+CONSUMER_KEY = "YOUR CONSUMER KEY"
+CONSUMER_SECRET = "YOUR CONSUMER SECRET"
 
   
 def main():
