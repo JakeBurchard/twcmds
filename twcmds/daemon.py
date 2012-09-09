@@ -12,6 +12,7 @@ def get_status(api, truncate):
 		curStatus = HTMLParser.HTMLParser().unescape(curStatus.text)
 		if curStatus != cur_cmd:
 			cur_cmd = curStatus
+            print "----------------"
 			print "New Status: " + curStatus
 			if cmd_exec(api, curStatus, truncate):
 				print "Status successfully executed"
