@@ -7,7 +7,7 @@ Getting Comsumer Keys and Secrets
 
 To use twcmds you must first setup a Twitter developer account and get
 a consumer key and secret. Then edit twcmds.py under the twcmds folder
-and add you spefic key and secret where indicated. 
+and add your spefic key and secret where indicated. 
 
 Introduction
 -------------
